@@ -7,8 +7,14 @@ how about Checking my Persian [videos](https://aparat.com/faratartech?utm_source
 ### [BSoD in CMD](https://github.com/faratartech/bsod)
 ### [Webcam.mp4 \(on my desktop\)](https://github.com/faratartech/webcam)
 ### [bigtxt](https://faratartech/bigtxt)
-### [restore virus\(Use with your own risk\)](https://github.com/faratartech/restore)
+### [restore virus \(Use with your own risk\)](https://github.com/faratartech/restore)
 ### [infinty](https://github.com/faratartech/infinity)
+
+<p align="center">
+  <a href="https://coffeebede.com/09155207955">
+    <img src="https://raw.githubusercontent.com/faratartech/faratartech/main/Donate.png" width="30%" alt="Donate" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faratartech&theme=merko" width="98%" />
