@@ -17,5 +17,10 @@ how about Checking my Persian [videos](https://aparat.com/faratartech?utm_source
 
 i just PLAY with windows!
 
+<p align="center">
+  <img src="https://github.com/faratartech/faratartech/blob/main/cursor%20hi-five.png?raw=true">
+</p>
+
 ## Checkout now!
-[![My Channel](https://lh3.google.com/u/0/d/1NrgVcqxXmZepDCPu2403E1X5CmAColm7=w1860-h915-iv1)](https://aparat.com/faratartech)
+
+[![My Channel](https://github.com/faratartech/faratartech/blob/main/mychannel.png)](https://aparat.com/faratartech)
