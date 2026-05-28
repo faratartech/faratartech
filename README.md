@@ -11,16 +11,16 @@ how about Checking my Persian [videos](https://aparat.com/faratartech?utm_source
 ### [infinty](https://github.com/faratartech/infinity)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faratartech&theme=merko" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faratartech&theme=merko" width="98%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faratartech&theme=merko" width="50%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faratartech&theme=merko" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faratartech&theme=merko" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faratartech&theme=merko" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=faratartech&theme=merko&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=faratartech&theme=merko&hide_border=true" width="98%" />
 </p>
 
 i just PLAY with windows!
