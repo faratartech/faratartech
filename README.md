@@ -17,14 +17,13 @@ how about Checking my Persian [videos](https://aparat.com/faratartech?utm_source
     <img src="https://raw.githubusercontent.com/faratartech/faratartech/main/Donate.png" width="30%" alt="Donate" />
   </a>
 </p>
-
+<a name="XXX"></a>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faratartech&theme=merko" width="98%" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faratartech&theme=merko" width="49%" />
-  <a name="XXX"></a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faratartech&theme=merko" width="49%" />
 </p>
 
