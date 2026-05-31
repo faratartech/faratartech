@@ -2,7 +2,7 @@
 i am here with some cool Repositories and a **SURPRISE!**
 
 before my SURPRISE! is ready, the bests are bigtxt, bsod and webcam. 
-how about Checking my Persian [videos](https://aparat.com/faratartech?utm_source=github.com)
+how about Checking my Persian [videos](https://aparat.com/faratartech?utm_source=github.com)?
 
 ### [BSoD in CMD](https://github.com/faratartech/bsod)
 ### [Webcam.mp4 \(on my desktop\)](https://github.com/faratartech/webcam)
@@ -10,14 +10,15 @@ how about Checking my Persian [videos](https://aparat.com/faratartech?utm_source
 ### [restore virus \(Use with your own risk\)](https://github.com/faratartech/restore)
 ### [infinty](https://github.com/faratartech/infinity)
 
-[![About Me](https://raw.githubusercontent.com/faratartech/justisee/46865504b361a729019c81d2eb15cb08d459d07a/aboutme.svg?token=CEV5J2IFQZ4UVMTPQELCOA3KDGF7C)](#XXX)
+[![About Me](https://raw.githubusercontent.com/faratartech/faratartech/c9c68f536ed284e4f0095357ff3a7c547ddd9bc0/aboutme.svg)](#me)
 
 <p align="center">
   <a href="https://coffeebede.com/09155207955">
     <img src="https://raw.githubusercontent.com/faratartech/faratartech/main/Donate.png" width="30%" alt="Donate" />
   </a>
 </p>
-<a name="XXX"></a>
+
+<a name="me"></a>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faratartech&theme=merko" width="98%" />
 </p>
@@ -40,3 +41,4 @@ i just PLAY with windows!
 ## Checkout now!
 
 [![My Channel](https://github.com/faratartech/faratartech/blob/main/mychannel.png)](https://aparat.com/faratartech)
+
